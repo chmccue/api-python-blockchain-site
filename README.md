@@ -54,3 +54,5 @@ Note: to respect the Blockchain site documentation, we should not run extensive 
 - If you want to generate the report without using the bash script, you need to add it to the run command:
   - `pytest ./tests --html=report.html --self-contained-html`
 - Note in the current configuration, generating a new report will overwrite the previous report.
+- Report example:
+<img width="1258" alt="pytest-html-report-example" src="https://user-images.githubusercontent.com/1563080/209920945-f78d2c90-217c-4e78-ad55-7c8dd82d2a9d.png">
