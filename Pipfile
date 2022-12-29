@@ -7,9 +7,9 @@ name = "pypi"
 requests = "*"
 assertpy = "*"
 jsonpath-ng = "*"
-reportportal-client = "*"
 pytest = "*"
 cerberus = "*"
+pytest-html = "*"
 
 [dev-packages]
 
